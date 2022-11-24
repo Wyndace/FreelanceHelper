@@ -133,3 +133,15 @@
 | Теги                 | парсер, парсинг                                                                                                                                        |
 | Ссылка на автора     | https://freelance.habr.com/freelancers/Kartmen7                                                                                                        |
 | Ссылка на проект     | https://freelance.habr.com/tasks/424931                                                                                                                |
+
+# 3. Реализация сервиса
+ 
+Сервис будет использовать следующий технологический стек:
+- Бекэнд
+    - Язык Python
+        - Библиотека для миграций Alembic
+    - Б/Д PostgreSQL
+- Фронтэнд:
+    - Язык Python
+        - Библиотека pyTelegramBotAPI
+
